@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : sort.h
-// Author      : 
+// Author      : Jonathan Arauco, Zac Sanford and Zac Christie
 // Date        :
 // Copyright   : 
 // Description : Sort interface and various sorting algorithms in C++

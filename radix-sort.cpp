@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : radix-sort.cpp
-// Author      : 
+// Author      : Jonathan Arauco, Zac Sanford and Zac Christie
 // Date        :
 // Copyright   : 
 // Description : Implementation of radix sort in C++

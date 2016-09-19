@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : option.h
-// Author      : TA's
+// Author      : Jonathan Arauco, Zac Sanford and Zac Christie
 // Date        :
 // Copyright   : 
 // Description : Command line processing for the sort program

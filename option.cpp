@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : option.cpp
-// Author      : TA's
+// Author      : Jonathan Arauco, Zac Sanford and Zac Christie
 // Date        :
 // Copyright   : 
 // Description : Command line processing for the sort program
@@ -41,7 +41,8 @@ void Option::init(int argc, char** argv)
 }
 
 
-void Option::printUsage() const {
+void Option::printUsage() const
+{
    std::cout <<
       "Usage: ./sort [-a ALGORITHM] [-f INPUTFILE] [-o OUTPUTFILE] [-h] "
       "[-d] [-p] [-t] [-c]\n"
